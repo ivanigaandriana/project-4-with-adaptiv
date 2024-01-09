@@ -82,24 +82,7 @@ h1,h2,h3,h4,h5,h6,a,li,ul{
         font-size: 14px;
         
     }}
-/* .nav__item{
-    position: relative;
-} */
-/* .nav__item a::after{
-    content: "";
-    position: absolute;
-    background-color: green;
-    left: 0;
-    height: 2px;
-    width: 100%;
-    bottom: -8px;
-    transform: scaleY(0);
-    transition-duration: 1s;
-} */
-/* .nav__item a:hover::after{
-    transform: scaleX(-1);
-    transition-duration: 1s;
-} */
+
 .nav__item a:hover,
 .nav__item a:focus{
     color:green;
